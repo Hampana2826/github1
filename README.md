@@ -1,3 +1,4 @@
 # github1
 trail git repo
-github repo to be 
+
+1st edit from github interface
